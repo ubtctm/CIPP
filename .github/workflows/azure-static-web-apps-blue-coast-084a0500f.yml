@@ -3,7 +3,7 @@ name: Azure Static Web App - CA
 on:
   push:
     branches:
-      - main
+      - workflow_merge
   pull_request:
     types: [opened, synchronize, reopened, closed]
     branches:
