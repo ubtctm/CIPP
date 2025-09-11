@@ -1,4 +1,4 @@
-name: Azure Static Web App - NZ
+name: Azure Static Web Apps CI/CD
 
 on:
   push:
